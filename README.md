@@ -1,1 +1,1 @@
-# golox-playground
+# Golox Playground
